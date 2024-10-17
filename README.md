@@ -1,2 +1,2 @@
 # Weather-app
-https://gauravkoul-weather-application.herokuapp.com/
+https://weather-app-3ub0.onrender.com/
